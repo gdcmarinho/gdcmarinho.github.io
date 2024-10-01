@@ -1,0 +1,18 @@
+title: 'Gabriel Marinho'
+description: "Blog description"
+baseurl: "/"
+url: "https://gdcmarinho.github.io"
+
+header_pages:
+  - index.md
+  - peter.md
+  - about.md
+  - contact.md
+
+style: dark
+
+footer: 'follow me on <a href="https://twitter.com/gdcmarinho">twitter</a>'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
